@@ -36,7 +36,8 @@ Currently focusing on **Robotics and Computer Vision**.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🎾 **[Padel AI System](#)** | Autonomous video-referee using pose estimation keypoints to judge impact height and detect faults in real-time. | `YOLO` `OpenCV` `PyTorch` |
+| 🎾 **[Padel AI System](https://github.com/jorgecarnicero/Padel-AI-System)** | Autonomous video-referee using pose estimation keypoints to judge impact height and detect faults in real-time. | `YOLO` `OpenCV` `PyTorch` |
+| 🛡️ **[Hordes of Apocalypse](https://github.com/jorgecarnicero/Hordes-of-Apocalypse)** | Tower Defense game in Unity featuring an adaptive adversarial AI (ML-Agents) that analyzes player weaknesses to dynamically adjust difficulty. | `Unity` `C#` `ML-Agents` |
 
 <br>
 
